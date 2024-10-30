@@ -1,0 +1,2 @@
+rootProject.name = "Infinite Illusion"
+include ':app'
