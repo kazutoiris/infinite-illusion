@@ -20,7 +20,7 @@
 
         <meta-data
             android:name="xposedscope"
-            android:value="com.lerist.fakelocation" />
+            android:value="com.lerist.fakelocation;dev.lerist.fakelocation" />
     </application>
 
 </manifest>
